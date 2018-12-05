@@ -1,5 +1,5 @@
 baseurl = "https://catosis.github.io" # Hostname (and path) to the root.
-title = "Yusuke Ishimi" # Site title.
+title = "Connie Mabel Zhang" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
@@ -11,22 +11,22 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
 
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+#disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Yusuke Ishimi" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
-    description = "Yusuke Ishimi's personal website" # Site description.
+    author = "Connie Zhang" # Author's name.
+    info = "Website" # Author's job title or info.
+    description = "Connie Zhang's Personal Website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/avatar.jpg" # Contain the path of the optional avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    # footercontent = "Enter a text here." # Add footer content
+    # fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    # fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
@@ -48,21 +48,21 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/Catosis/"
 [[params.social]]
-    name = "Twitter"
+    name = "Instagram"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://instagram.com/angermoth/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/in/conniezhang1/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Projects"
     weight = 1
-    url  = "posts"
+    url  = "projects"
 [[menu.main]]
     name = "About"
     weight = 2

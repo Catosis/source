@@ -1,0 +1,20 @@
+---
+title: "The Bed Goes With You"
+date: 2018-11-20T02:35:10-08:00
+draft: false
+---
+
+280,000 Americans have spinal cord injuries, 58% of which are categorized as quadrepeglic and have lost function in all four of their limbs. These individuals have singnificantly reduced mobility and often have to live in dedicated homes or have full-time caretakers that they rely on in order to complete daily tasks. The reliance on a caretaker greatly restricts the freedom of the quadrepelic to the working hours of the caretaker, and can have serious consequences if something were to go wrong. For example, if a caretaker does not show up, the quadrepelic person is forced to stay in bed until help arrives. They are unable to relieve their bowels, relieve pressure sores, and may lose their jobs as a consequence of being trapped in bed. There have been incidents of a quadrepelic being left in bed fore more than 24 hours at a time.
+
+ Once they are out of bed, other tools such as mobility chairs allow them to continue with their day. Our goal was to design a product that would allow a quadrepelic to get out of bed on their own, thus giving them back their independence and reducing caretaker reliance. Electric wheelchair technology has improved, somewhat, including tongue-controlled power options for quadrepelics. The idea is to use something that many quadrepelics would already need - a electric wheelchair, and improve it to save on space
+
+Traditional beds are take up a lot of space, and with a patient crane, it quickly fills up the bedroom. This also makes it difficult for the person to opterate a wheelchair in small rooms with all this floor space taken up. In addition, quadprepeligcs typically report less income than able-bodied persons, and as a result may not have all the accessible space they need. 
+
+Our concept gives the person maximum mobility, freedom, and independence. It is a chair that turns into a bed. While this may seem facetious on the surface, it offers several key advantges
+1. The ability to remove a traditional bed from a bedroom, and therefore have maximum space when the bed is not deployed
+2. Sitting  or laying for an extended amount of time can cause nerve damage. Air matteresses that turn a quadrepelic patient by inflating alternating air pockets already exsist, and have been proven to prevent pressure sores. This technology could be integrated into an exsisting chair. 
+
+Our design also docks into a portable air pump station that inflates and deflates the bed each day. This pump takes up significantly less space than a traditional mattress and can be taken with the person if they travel.  In addition, the pump would have to be strong enough to lift up the person's body weight (we tested this with an air mattress and pump and it was able to achieve full inflation). During the 16 hour hackathon we created a quarter scale model of the concept. The bed would dock into a pump in the bedroom, and inflate, then deflate and undock.
+<center><img src = "/Hackathons/final_mockup.jpg" height = "300px">   <iframe width="560" height="315" src="https://www.youtube.com/embed/IW3lUqlLAVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+This is a theoretical product, and there are some concerns that would arise. One is ensuring a comfortable fit during the day. Many chairs are custom made to contour to it's occupant. Having an addtional layer that inflates or deflates may introduce wrinkles that cause pressure points if the chair does not deflate properly. The idea would be to have the chair vaccuum seal The chair must also inflate evenly and safely to keep the person safely on the bed-platform at all times. The last concern is price. Quadrepelics have a significiantly lower average income than their able-bodied counterparts, and a chair that is custom fitted, safe, light, mobile would cost thousands of dollars. A normal mobility chair can already range from 2000 - 10000 dollars. These added features would cost a small fortune.
